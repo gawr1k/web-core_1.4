@@ -204,10 +204,10 @@ a:hover {
     letter-spacing: -0.2px;
     font-family: "TTLakes-next";
 }
-.footer__page__launge__btn:first-child {
+.footer__page__launge__btn:nth-child(1) {
     margin-left: 24px;
 }
 
-.footer__page__launge__btn:last-child {
+.footer__page__launge__btn:nth-child(3) {
     margin-right: 209px;
 }
